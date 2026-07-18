@@ -108,23 +108,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharamshiyash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharamshiyash&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharamshiyash&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Gmail-yashdharamshi1810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashdharamshi1810@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharamshiyash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharamshiyash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--dharamshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dharamshi)
 [![GitHub](https://img.shields.io/badge/GitHub-dharamshiyash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharamshiyash)
-[![LeetCode](https://img.shields.io/badge/LeetCode-dharamshiyash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dharamshiyash)
-[![Ready Tensor](https://img.shields.io/badge/Ready_Tensor-Publications-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white)](https://app.readytensor.ai)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1mDZ9ZdNGe-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/1mDZ9ZdNGe/)
+[![Ready Tensor](https://img.shields.io/badge/Ready_Tensor-dharamshiyash1810-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white)](https://app.readytensor.ai/users/dharamshiyash1810)
