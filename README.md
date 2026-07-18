@@ -1,120 +1,130 @@
-# Yash Dharamshi
+# Hi, I'm Yash Dharamshi 👋
 
-**B.Tech Information Technology · K. J. Somaiya Institute of Technology, Mumbai · CGPA: 9.8/10**
+**B.Tech Information Technology · K. J. Somaiya Institute of Technology, Mumbai**
+
+> *Third-year IT student building backend systems, AI agents, and RAG pipelines. CGPA: 9.8 / 10*
 
 ---
 
-## About Me
-
-I'm a third-year IT student passionate about backend systems, AI/ML applications, and building tools that solve real problems. I enjoy working across the stack — from REST APIs and databases to LLM-powered agents and RAG pipelines.
+## 🙋 About Me
 
 - 📍 Dombivli, Maharashtra, India
-- 🎓 Graduating: May/June 2027
-- 💼 Open to Software Development Internships (2027)
-- 🔐 Also interested in Cybersecurity roles
+- 🎓 Graduating: May / June 2027
+- 💼 Seeking a **3–6 month Software Development Internship** (2027)
+- 🤖 Focused on Agentic AI, RAG systems, and Backend Engineering
+- 🔐 Also open to Cybersecurity roles
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-`Java` `Python` `JavaScript` `SQL` `C` `HTML` `CSS`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
-`Spring Boot` `React` `Node.js` `Express.js` `Django` `Flask` `Angular`
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **AI / ML**
-`LLMs` `Agentic AI` `RAG` `PyTorch` `TensorFlow`
 
-**Databases**
-`MySQL` `MongoDB`
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tools**
-`Git` `GitHub` `VS Code`
+**Databases & Tools**
 
----
-
-## Internship Objective
-
-I am actively seeking a **3–6 month Software Development Internship** for my 8th semester (early 2027). Target roles include Software Developer, Backend Developer, Full Stack Developer, and AI/Generative AI Engineer. Open to Cybersecurity opportunities as well.
-
----
-
-## Featured Projects
-
-### [Agentic AI PowerPoint Builder](https://github.com/dharamshiyash/agentic-ppt-builder)
-An agentic AI application that autonomously generates structured PowerPoint presentations using a multi-agent system. Published on Ready Tensor.
-
-### [Agentic RAG Assistant](https://github.com/dharamshiyash/agentic-rag-assistant)
-A Retrieval-Augmented Generation assistant with strong anti-hallucination controls that grounds LLM responses in user-provided documents. Published on Ready Tensor.
-
-### [Automatic Reconnaissance Tool](https://github.com/dharamshiyash/Automatic-Reconnaissance-Tool)
-Built during my Cybersecurity internship. Automates OSINT and network reconnaissance using the Shodan API, subdomain enumeration, and generates PDF reports with automated email delivery.
-
-### [CalmSpace](https://github.com/dharamshiyash/CalmSpace)
-A wellness platform (team of 4). Contributed to backend development, REST API design, and database management.
-
-### [Go2Guide](https://github.com/dharamshiyash/Go2Guide)
-A travel guide application (team of 4). Responsible for backend development and database management.
-
-### [Roommate Management System](https://github.com/dharamshiyash)
-A Java + Spring Boot application (team of 4) for managing shared living arrangements. Contributed to backend logic and database design.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Internship Experience
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Agentic AI PPT Builder**](https://github.com/dharamshiyash/agentic-ppt-builder) | Multi-agent system that autonomously generates PowerPoint presentations | Python, LLMs, Agentic AI |
+| [**Agentic RAG Assistant**](https://github.com/dharamshiyash/agentic-rag-assistant) | Document-grounded AI assistant with strong anti-hallucination controls | Python, RAG, LLMs |
+| [**Automatic Recon Tool**](https://github.com/dharamshiyash/Automatic-Reconnaissance-Tool) | OSINT + network recon tool with Shodan API, PDF reports & email automation | Python, Shodan, OSINT |
+| [**CalmSpace**](https://github.com/dharamshiyash/CalmSpace) | Wellness platform — Backend, REST APIs & DB management (team of 4) | Node.js, MongoDB |
+| [**Go2Guide**](https://github.com/dharamshiyash/Go2Guide) | Travel guide application — Backend & DB management (team of 4) | Node.js, MongoDB |
+| **Roommate Management System** | Shared living management app — Backend & DB design (team of 4) | Java, Spring Boot |
+
+---
+
+## 💼 Internship Experience
 
 **Cyber Security Intern — Supraja Technologies**
 
-- Conducted web application vulnerability assessments and penetration testing
-- Performed OSINT, network scanning, and reconnaissance
-- Tools: `Nmap` `Wireshark` `Nessus` `Metasploit` `Shodan` `Python` `Google Dorks` `WHOIS` `HTTrack` `Wappalyzer` `VirusTotal`
+- Web application vulnerability assessments & penetration testing
+- OSINT, network scanning, subdomain enumeration, reconnaissance
+- Built the [Automatic Reconnaissance Tool](https://github.com/dharamshiyash/Automatic-Reconnaissance-Tool) during this internship
+
+> Tools: `Nmap` · `Wireshark` · `Nessus` · `Metasploit` · `Shodan` · `Python` · `Google Dorks` · `WHOIS` · `HTTrack` · `Wappalyzer` · `VirusTotal`
 
 ---
 
-## Publications
+## 📄 Publications
 
 | Title | Platform |
 |---|---|
-| [Agentic AI PowerPoint Builder — Multi-Agent System](https://app.readytensor.ai/publications/agentic-ai-powerpoint-builder-a-multi-agent-system-for-automated-pptx-presentation-generation-1muDWVddwCXy) | Ready Tensor |
-| [Agentic AI PowerPoint Builder — Productionizing](https://app.readytensor.ai/publications/agentic-ai-powerpoint-builder-productionizing-a-multi-agent-system-for-automated-pptx-generation-EIHxNIG6pG1b) | Ready Tensor |
-| [Agentic RAG Assistant — Document-Grounded AI System](https://app.readytensor.ai/publications/agentic-rag-assistant-a-document-grounded-ai-system-with-strong-anti-hallucination-controls-nYNDf6rTWVEH) | Ready Tensor |
+| [Agentic AI PPT Builder — Multi-Agent System](https://app.readytensor.ai/publications/agentic-ai-powerpoint-builder-a-multi-agent-system-for-automated-pptx-presentation-generation-1muDWVddwCXy) | Ready Tensor |
+| [Agentic AI PPT Builder — Productionizing](https://app.readytensor.ai/publications/agentic-ai-powerpoint-builder-productionizing-a-multi-agent-system-for-automated-pptx-generation-EIHxNIG6pG1b) | Ready Tensor |
+| [Agentic RAG Assistant — Document-Grounded AI](https://app.readytensor.ai/publications/agentic-rag-assistant-a-document-grounded-ai-system-with-strong-anti-hallucination-controls-nYNDf6rTWVEH) | Ready Tensor |
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 | Certification | Issuer |
 |---|---|
 | Agentic AI Engineer | Ready Tensor |
 | Agentic AI Builder | Ready Tensor |
 | RAG Systems Expert | Ready Tensor |
-| Data Mining (92/100) | NPTEL |
+| Data Mining — 92/100 | NPTEL |
 | Python Developer | SoloLearn |
 | Angular | SoloLearn |
 | Introduction to HTML | SoloLearn |
 | Introduction to JavaScript | SoloLearn |
 | JavaScript Intermediate | SoloLearn |
 
-**Honors:** Letter of Appreciation — Core Organizing Member, LOW-CODE IoT Hackathon 2026
+🏆 **Letter of Appreciation** — Core Organizing Member, LOW-CODE IoT Hackathon 2026
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharamshiyash&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharamshiyash&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharamshiyash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharamshiyash&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharamshiyash&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+## 📬 Contact
 
-| | |
-|---|---|
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
-| 💼 LinkedIn | [linkedin.com/in/dharamshiyash](https://linkedin.com/in/dharamshiyash) |
-| 🐙 GitHub | [github.com/dharamshiyash](https://github.com/dharamshiyash) |
-| 🧩 LeetCode | [leetcode.com/dharamshiyash](https://leetcode.com/dharamshiyash) |
-| 📄 Ready Tensor | [readytensor.ai — dharamshiyash](https://app.readytensor.ai) |
+[![Email](https://img.shields.io/badge/Gmail-yashdharamshi1810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashdharamshi1810@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharamshiyash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharamshiyash)
+[![GitHub](https://img.shields.io/badge/GitHub-dharamshiyash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharamshiyash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-dharamshiyash-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dharamshiyash)
+[![Ready Tensor](https://img.shields.io/badge/Ready_Tensor-Publications-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white)](https://app.readytensor.ai)
