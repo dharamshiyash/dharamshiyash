@@ -2,7 +2,7 @@
 
 **B.Tech Information Technology · K. J. Somaiya Institute of Technology, Mumbai**
 
-> *Third-year IT student building backend systems, AI agents, and RAG pipelines. CGPA: 9.8 / 10*
+> *Final-year IT student building backend systems, AI agents, and RAG pipelines. CGPA: 9.8 / 10*
 
 ---
 
@@ -11,7 +11,7 @@
 - 📍 Dombivli, Maharashtra, India
 - 🎓 Graduating: May / June 2027
 - 💼 Seeking a **3–6 month Software Development Internship** (2027)
-- 🤖 Focused on Agentic AI, RAG systems, and Backend Engineering
+- 🤖 Focused on Agentic AI, LLMs, RAG systems, and Backend Engineering
 - 🔐 Also open to Cybersecurity roles
 
 ---
@@ -40,6 +40,7 @@
 
 **AI / ML**
 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -62,9 +63,9 @@
 | [**Agentic AI PPT Builder**](https://github.com/dharamshiyash/agentic-ppt-builder) | Multi-agent system that autonomously generates PowerPoint presentations | Python, LLMs, Agentic AI |
 | [**Agentic RAG Assistant**](https://github.com/dharamshiyash/agentic-rag-assistant) | Document-grounded AI assistant with strong anti-hallucination controls | Python, RAG, LLMs |
 | [**Automatic Recon Tool**](https://github.com/dharamshiyash/Automatic-Reconnaissance-Tool) | OSINT + network recon tool with Shodan API, PDF reports & email automation | Python, Shodan, OSINT |
-| [**CalmSpace**](https://github.com/dharamshiyash/CalmSpace) | Wellness platform — Backend, REST APIs & DB management (team of 4) | Node.js, MongoDB |
-| [**Go2Guide**](https://github.com/dharamshiyash/Go2Guide) | Travel guide application — Backend & DB management (team of 4) | Node.js, MongoDB |
-| **Roommate Management System** | Shared living management app — Backend & DB design (team of 4) | Java, Spring Boot |
+| [**CalmSpace**](https://github.com/dharamshiyash/CalmSpace) | Wellness platform — Backend Dev: REST APIs & DB management (team of 4) | Node.js, MongoDB |
+| [**Go2Guide**](https://github.com/dharamshiyash/Go2Guide) | Travel guide app — Backend Dev: API development & DB management (team of 4) | Node.js, MongoDB |
+| **Roommate Management System** | Shared living management app — Backend Dev: API & DB design (team of 4, private repo) | Java, Spring Boot |
 
 ---
 
@@ -90,7 +91,7 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Recognition
 
 | Certification | Issuer |
 |---|---|
@@ -100,9 +101,6 @@
 | Data Mining — 92/100 | NPTEL |
 | Python Developer | SoloLearn |
 | Angular | SoloLearn |
-| Introduction to HTML | SoloLearn |
-| Introduction to JavaScript | SoloLearn |
-| JavaScript Intermediate | SoloLearn |
 
 🏆 **Letter of Appreciation** — Core Organizing Member, LOW-CODE IoT Hackathon 2026
 
